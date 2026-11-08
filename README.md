@@ -38,7 +38,10 @@ Claude Code, only the MCP server:
 claude mcp add --transport http developh https://www.developh.co/mcp
 ```
 
-Hermes Agent: the repository root is an Agent Plugins v1 package (`plugin.json`, `mcp.json`, `skills/`).
+Cursor: the repository is a Cursor plugin too (`.cursor-plugin/plugin.json`).
+
+Hermes Agent: the repository root is an Agent Plugins v1 package (`plugin.json`, `mcp.json`, `skills/`). Pinned
+install: `hermes plugins install Developh/skills --ref <commit>`.
 
 ### Tools on the MCP server
 
