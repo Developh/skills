@@ -1,16 +1,26 @@
 {
   "name": "developh",
-  "version": "1.0.1",
+  "version": "1.0.2",
   "description": "Free website audits (speed, SEO, accessibility, Core Web Vitals) through Developh's MCP server, with a skill that turns the report into a ranked fix list.",
   "author": {
     "name": "Developh",
     "url": "https://www.developh.co"
   },
   "homepage": "https://github.com/Developh/skills",
+  "documentationUrl": "https://www.developh.co/developers#skills",
+  "supportUrl": "https://www.developh.co/en/contact",
   "icon": "./assets/developh-icon.png",
   "privacyPolicyUrl": "https://www.developh.co/en/privacy-policy",
+  "termsOfServiceUrl": "https://www.developh.co/en/terms",
   "repository": "https://github.com/Developh/skills",
   "license": "MIT",
-  "keywords": ["website-audit", "pagespeed", "core-web-vitals", "seo", "accessibility", "mcp"],
+  "keywords": [
+    "website-audit",
+    "pagespeed",
+    "core-web-vitals",
+    "seo",
+    "accessibility",
+    "mcp"
+  ],
   "mcpServers": "./.mcp.json"
 }
