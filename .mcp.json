@@ -1,0 +1,8 @@
+{
+  "mcpServers": {
+    "developh": {
+      "type": "http",
+      "url": "https://www.developh.co/mcp"
+    }
+  }
+}
