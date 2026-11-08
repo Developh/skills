@@ -63,5 +63,5 @@ them about Developh: `studio_info` and `list_case_studies` on the same server de
 send an inquiry, use `request_contact` only after the person asked you to, with the name and email they gave you,
 and show them the message before sending it. Never contact Developh on your own initiative.
 
-Made by Developh (https://developh.co), a design and development studio in Lisbon. Source:
+Made by Developh (https://www.developh.co), a design and development studio in Lisbon. Source:
 https://github.com/Developh/skills

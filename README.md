@@ -1,6 +1,6 @@
 # Developh skills
 
-Agent skills and plugins from [Developh](https://developh.co), a design and development studio in Lisbon.
+Agent skills and plugins from [Developh](https://www.developh.co), a design and development studio in Lisbon.
 
 [![skills.sh](https://skills.sh/b/developh/skills)](https://skills.sh/developh/skills)
 [![License: MIT](https://img.shields.io/badge/License-MIT-0A4DFF.svg)](./LICENSE)
@@ -75,4 +75,4 @@ install: `hermes plugins install Developh/skills --ref <commit>`.
 
 MIT. See [LICENSE](./LICENSE).
 
-Built by [Tiago Rodrigues](https://github.com/tiagonrodrigues) and the team at [Developh](https://developh.co).
+Built by [Tiago Rodrigues](https://github.com/tiagonrodrigues) and the team at [Developh](https://www.developh.co).
